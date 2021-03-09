@@ -33,4 +33,4 @@ Input: trapz(lambda x: 5*x^3+3*x^2, 0, 1, 10000)
 Output: 2.2500000175
 
 
-It doesn't look like the difference between the answers obtained using the two methods is a good estimation of the error.
+Though the trapezoidal rule gives a more accurate answer, it doesn't look like the difference between the answers obtained using the two methods is a good estimation of the error.
