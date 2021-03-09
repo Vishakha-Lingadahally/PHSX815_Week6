@@ -1,8 +1,8 @@
 Simpson rule vs Trapezoidal rule
 
 How to run the code:
-For Simpson's rule, run Simpson.py on the command line. Then enter 'simps(lambda x: "any function involving x", "lower limit of the intergral", "upper limit of the integral", "Number of subintervals") to calculate the integral.
-For Trapezoidal rule, run Trapezoidal_rule.py on the command line. Then enter 'trapz(lambda x: "any function involving x", "lower limit of the intergral", "upper limit of the integral", "Number of subintervals") to calculate the integral.
+For Simpson's rule, run Simpson.py on the command line. Then enter 'simps(lambda x: "any function involving x", "lower limit of the intergral", "upper limit of the integral", "Number of subintervals")' to calculate the integral.
+For Trapezoidal rule, run Trapezoidal_rule.py on the command line. Then enter 'trapz(lambda x: "any function involving x", "lower limit of the intergral", "upper limit of the integral", "Number of subintervals")' to calculate the integral.
 
 Example:
 
