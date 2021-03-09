@@ -6,7 +6,7 @@ For Trapezoidal rule, run Trapezoidal_rule.py on the command line. Then enter 't
 
 Example:
 
-Simpson's rule-Number of subintervals=100
+Simpson's rule-Number of subintervals=100\\
 Input: simps(lambda x: 5*x^3+3*x^2, 0, 1, 100)
 Output: 2.25
 Trapezoidal rule-Number of subintervals=100
